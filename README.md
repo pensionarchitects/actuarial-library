@@ -1,6 +1,9 @@
 # actuarial-library
 A free opensource actuarial library.
 
+## Demo
+For a live demo, go to [tools.pensionarchitects.be/actuarial-web](http://tools.pensionarchitects.be/actuarial-web/).
+
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/pensionarchitects/actuarial-library/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
