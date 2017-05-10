@@ -1,4 +1,4 @@
-## How to contribute to Ruby on Rails
+## How to contribute to the actuarial library
 
 #### **Did you find a bug?**
 
